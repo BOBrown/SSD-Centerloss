@@ -16,7 +16,7 @@ In the equation above, $L_{conf}$ represents the function that classifies each o
 However, for some objects that are similar to each other, learning the location information may be easy. The softmax function is hard to work due to the similarity of feature of foreground samples. Center loss can effectively decrease the feature difference between the same object.
 <br>
 <br>
-![center loss](https://img-blog.csdn.net/20180719105922908?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3piemIxMDAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![image](https://github.com/BOBrown/SSD-Centerloss/blob/master/center_loss.png)
 
 
 # How to use SSD-Centerloss
