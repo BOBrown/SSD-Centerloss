@@ -1,3 +1,4 @@
+#center_loss_ssd
 layer {
   name: "data"
   type: "AnnotatedData"
